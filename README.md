@@ -31,9 +31,22 @@ La propuesta se organiza en módulos temáticos, cada uno con una duración esti
       * Explicación de GLM y cambio en las distribuiciones.
       * Distribuciones (Binomial, Gaussiana, Poisson, Tweedie, Gamma, Huber).
       * Casos especiales de modelos de dos etapas (Binomial/Gaussiana) para regresión no correlacionada.
+   
+### 4\. Modelos No Supervisados (Unsupervised Models)
+
+  * **Duración:** 2 horas
+  * **Contenido:**
+      * Jerárquico, k-Means, HDBSCAN.
+
+### 5\. Reducción de Dimensionalidad (Dimensionality Reduction)
+
+  * **Duración:** 2 horas
+  * **Contenido:**
+      * Análisis de Componentes Principales (PCA).
+      * Análisis de Ecuaciones Estructurales (SEM) para identificar patrones ocultos.
 
 
-### 4\. Máquinas de Soporte Vectorial (Support Vector Machines)
+### 6\. Máquinas de Soporte Vectorial (Support Vector Machines)
 
   * **Duración:** 2 horas
   * **Contenido:**
@@ -42,13 +55,13 @@ La propuesta se organiza en módulos temáticos, cada uno con una duración esti
       * Kernels (lineal, polinomial, radial, RBF).
       * Conceptos de liblinear y libsvm.
 
-### 5\. Modelos Aditivos Generalizados (Generalized Additive Models)
+### 7\. Modelos Aditivos Generalizados (Generalized Additive Models)
 
   * **Duración:** 0 horas (No se cree relevante para la práctica, ya que los árboles de decisión funcionan mejor cuando la relación no es lineal o no hay patrón).
   * **Contenido:**
       * GAM y GA2M.
 
-### 6\. Modelos Basados en Árboles (Tree-based Models)
+### 8\. Modelos Basados en Árboles (Tree-based Models)
 
   * **Duración:** 2 horas
   * **Contenido:**
@@ -58,7 +71,7 @@ La propuesta se organiza en módulos temáticos, cada uno con una duración esti
       * Otros conceptos de ensamblaje (Voting Hard/Soft y Stacking).
       * LightGBM, CatBoost, AdaBoost, RuleFit.
 
-### 7\. Modelos de Series de Tiempo (Time series-specific Models)
+### 9\. Modelos de Series de Tiempo (Time series-specific Models)
 
   * **Duración:** 2 horas
   * **Contenido:**
@@ -68,18 +81,6 @@ La propuesta se organiza en módulos temáticos, cada uno con una duración esti
       * Prophet.
       * LSTMs.
 
-### 8\. Modelos No Supervisados (Unsupervised Models)
-
-  * **Duración:** 2 horas
-  * **Contenido:**
-      * Jerárquico, k-Means, HDBSCAN.
-
-### 9\. Reducción de Dimensionalidad (Dimensionality Reduction)
-
-  * **Duración:** 2 horas
-  * **Contenido:**
-      * Análisis de Componentes Principales (PCA).
-      * Análisis de Ecuaciones Estructurales (SEM) para identificar patrones ocultos.
 
 ### 10\. Marketing - Encuestas de Opinión / Entrevista con Expertos / Análisis Cualitativo
 
