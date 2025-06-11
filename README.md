@@ -32,7 +32,7 @@ La propuesta se organiza en módulos temáticos, cada uno con una duración esti
       * Distribuciones (Binomial, Gaussiana, Poisson, Tweedie, Gamma, Huber).
       * Casos especiales de modelos de dos etapas (Binomial/Gaussiana) para regresión no correlacionada.
    
-### 4\. Modelos No Supervisados (Unsupervised Models)
+### 4\. Modelos No Supervisados - Clustering (Segmentación)
 
   * **Duración:** 2 horas
   * **Contenido:**
