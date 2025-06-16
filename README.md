@@ -39,6 +39,7 @@ La propuesta se organiza en módulos temáticos, cada uno con una duración esti
 ### 6\. Marketing - Encuestas de Opinión / Entrevista con Expertos / Análisis Cualitativo
   * **Contenido:**
       * **AHP:** [Cómo aplicar el método de análisis de jerarquía analítica](https://www.google.com/search?q=https://www.youtube.com/watch%3Fv%3DkYcQk4Hqe5VY)
+      * **Conjoint Analysis y MaxDiff**
 
 ### 7\. Máquinas de Soporte Vectorial (Support Vector Machines)
   * **Contenido:**
